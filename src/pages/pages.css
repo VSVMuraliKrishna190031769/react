@@ -1,0 +1,24 @@
+
+  .con
+  {
+      background-color: goldenrod;
+      font-size: 30px;
+      color: white;
+  }
+  .blogs{
+      color: red;
+    background-image: url('F:\3d-Hd-Radha-Krishna-Download-Wallpaper.jpg');
+   
+}
+  .home{
+    background-image: url('F:\3d-Hd-Radha-Krishna-Download-Wallpaper.jpg');
+    max-width:100%;
+    color : rgb(250, 247, 247);
+    font-size: 20px;
+  }
+  .layout{
+      
+      border-color: red;
+      font-style: normal;
+      font-size: 40px;
+  }
